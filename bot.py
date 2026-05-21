@@ -278,7 +278,7 @@ def get_active_daily_test():
 # 📢 MAJBURIY OBUNA TIZIMI (MAJBURIY KANALLAR)
 # ==========================================================================================
 REQUIRED_CHANNELS = [
-    {"name": "📢 Asosiy Kanal", "id": "@alo_math"},
+    {"name": "📢 Asosiy Kanal", "id": "@satpro7"},
 ]
 
 async def is_subscribed(bot: Bot, user_id: int) -> bool:
